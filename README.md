@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuylerzoller
 - 👀 I’m interested in enchancing my knowledge in the world of code
-- 🌱 I’m currently learning javascript, java, python, c++
+- 🌱 I’m currently learning javascript, java, c, c++, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kuylerzoller77@gmail.com
 
